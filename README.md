@@ -61,7 +61,11 @@ Press q to quit the webcam feed.
 
 ## Research Paper
 
+## Research Paper
+
 This project is accompanied by a technical paper titled Real-Time Hand Gesture Recognition Using MediaPipe and LSTM, which documents the full methodology including data collection, feature extraction, model training, and real-time inference results.
+
+[Read the full article on Medium](https://medium.com/@pandey.aditya28aug/real-time-hand-gesture-recognition-using-mediapipe-and-lstm-7240f438e66a)
 
 ## References
 
